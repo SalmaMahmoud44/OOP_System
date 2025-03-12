@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\creditpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:creditpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\checkpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:checkpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +23,10 @@
       "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,12 +35,8 @@
       "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|c:\\users\\salma\\onedrive - mansoura university - main\\desktop\\oop system\\oop system\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F66FCFA-E2AD-4B75-B034-19E0F8822300}|oop system.csproj|solutionrelative:orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,20 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CheckPayment.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\CheckPayment.cs",
-              "RelativeDocumentMoniker": "CheckPayment.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\CheckPayment.cs",
-              "RelativeToolTip": "CheckPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:57:16.982Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -76,117 +56,104 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABMAAABAzczMzAwjwAgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T03:31:21.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "CustomerManager.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\CustomerManager.cs",
+              "RelativeToolTip": "CustomerManager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:05:13.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\OrderItem.cs",
               "RelativeDocumentMoniker": "OrderItem.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\OrderItem.cs",
               "RelativeToolTip": "OrderItem.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T08:31:35.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T08:31:35.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreditPayment.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\CreditPayment.cs",
-              "RelativeDocumentMoniker": "CreditPayment.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\CreditPayment.cs",
-              "RelativeToolTip": "CreditPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:57:53.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CashPayment.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\CashPayment.cs",
-              "RelativeDocumentMoniker": "CashPayment.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\CashPayment.cs",
-              "RelativeToolTip": "CashPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:56:33.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Payment.cs",
               "RelativeDocumentMoniker": "Payment.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Payment.cs",
               "RelativeToolTip": "Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T08:51:29.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Product.cs",
               "RelativeToolTip": "Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T22:30:02.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Stock.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Stock.cs",
               "RelativeDocumentMoniker": "Stock.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Stock.cs",
               "RelativeToolTip": "Stock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T21:28:40.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Transaction.cs",
               "RelativeDocumentMoniker": "Transaction.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Transaction.cs",
               "RelativeToolTip": "Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwDcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T09:14:41.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Order.cs",
               "RelativeDocumentMoniker": "Order.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Order.cs",
               "RelativeToolTip": "Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwDoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T08:44:30.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive - Mansoura University - Main\\Desktop\\oop system\\oop system\\Customer.cs",
               "RelativeToolTip": "Customer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwEgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T06:18:15.744Z"
             }

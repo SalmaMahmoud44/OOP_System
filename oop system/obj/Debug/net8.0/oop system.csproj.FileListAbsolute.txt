@@ -40,3 +40,4 @@ C:\Users\salma\OneDrive - Mansoura University - Main\Desktop\oop system\oop syst
 C:\Users\salma\OneDrive - Mansoura University - Main\Desktop\oop system\oop system\obj\Debug\net8.0\oop system.pdb
 C:\Users\salma\OneDrive - Mansoura University - Main\Desktop\oop system\oop system\obj\Debug\net8.0\oop system.genruntimeconfig.cache
 C:\Users\salma\OneDrive - Mansoura University - Main\Desktop\oop system\oop system\obj\Debug\net8.0\ref\oop system.dll
+C:\Users\salma\OneDrive - Mansoura University - Main\Desktop\oop system\oop system\obj\Debug\net8.0\oop system.sourcelink.json

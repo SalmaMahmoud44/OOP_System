@@ -7,42 +7,61 @@ using System.Threading.Tasks;
 namespace oop_system
 {
 
+    public enum OrderStatus
+    {
+        New,
+        Hold,
+        Paid,
+        Canceled
+    }
+
     public class Order
     {
         public int ID { get; set; }
-        public int OrderNumber { get; set; }
-        public DateTime OrderDate { get; set; }
-        public List<OrderItem> Items { get; set; }
+        public int OrderNumber { get; private set; }
+        public DateTime OrderDate { get; private set; }
+        public List<OrderItem> Items { get; private set; }
+        public double TotalOrderAmount { get; private set; }
+        public OrderStatus Status { get; private set; }
 
-        public double total_order_amount { get; set; }
-
-
-
-        public Order(double _total_order_amount)
+        public Order()
         {
             OrderNumber = new Random().Next(1, 100000);
             OrderDate = DateTime.Now;
             Items = new List<OrderItem>();
-            total_order_amount = _total_order_amount;
+            TotalOrderAmount = 0;
+            Status = OrderStatus.New;
         }
 
         public void AddItem(OrderItem item)
         {
-            Items.Add(item);
-        }
-
-
-        public string Details()
-        {
-            return $"ID = {ID}, Order Number: {OrderNumber}, Date Time: {OrderDate}";
-        }
-
-        public void printItems()
-        {
-            Console.WriteLine("List of all items : ");
-            foreach (var items in Items)
+            if (item != null)
             {
-                Console.WriteLine(items);
+                Items.Add(item);
+                TotalOrderAmount += item.SalesPrice * item.Product.quantity;
+            }
+        }
+
+        public void UpdateOrderStatus(OrderStatus newStatus)
+        {
+            Status = newStatus;
+        }
+        public void EditOrder(DateTime newDate)
+        {
+            OrderDate = newDate;
+        }
+
+        public override string ToString()
+        {
+            return $"Order ID: {ID}, Order Number: {OrderNumber}, Date: {OrderDate}, Status: {Status}, Total: {TotalOrderAmount:C2}";
+        }
+
+        public void PrintItems()
+        {
+            Console.WriteLine("List of Items:");
+            foreach (var item in Items)
+            {
+                Console.WriteLine(item);
             }
         }
     }

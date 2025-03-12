@@ -14,9 +14,10 @@ namespace oop_system
         public int ID { get; set; }
 
 
-        public void AddProduct(int Id)
+        public void AddProduct(Product product)
         {
-            ID = Id;
+            products.Add(product);
+            Console.WriteLine("Product added successfully");
         }
 
         public void UpdateProduct(int ID, double new_price)
@@ -45,6 +46,24 @@ namespace oop_system
             var product = products.FirstOrDefault(p => p.ID == ID);
             return product != null ? product.price : 0;
         }
+        public static void PrintStock(Stock stock)
+        {
+            Console.WriteLine("Stock Inventory:");
+            foreach (var product in stock.products)
+            {
+                Console.WriteLine(product);
+            }
+        }
+        public List<Product> GetProducts()
+        {
+            return products;
+        }
+
+        public Product GetProductById(int id)
+        {
+            return products.FirstOrDefault(p => p.ID == id);
+        }
+
 
     }
 }
